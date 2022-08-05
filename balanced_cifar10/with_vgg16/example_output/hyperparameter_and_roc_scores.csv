@@ -1,0 +1,13 @@
+parameter,values
+number_of_epochs,10.0
+batch_size,32.0
+train/val_split,0.9
+weight_decay,0.0005
+momentum,0.9
+learning_rate,0.001
+lr_scheduler_step_size,2.0
+lr_scheduler_gamma,0.9
+accuracy,0.881
+f1_score,0.882
+precision,0.885
+recall,0.881
